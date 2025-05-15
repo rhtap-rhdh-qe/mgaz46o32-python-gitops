@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mgaz46o32-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mgaz46o32-python
